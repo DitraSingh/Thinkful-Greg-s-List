@@ -2,11 +2,17 @@
   font-family: 'Source Sans Pro', sans-serif;
 }
 
+body {
+  padding-top: 100px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
 .navbar {
   background-color: silver;
 }
 
-.navbar-nav {
-  position: absolute;
-  text-align: right;
+.search-button {
+  width: 3%;
+  height: 3%;
 }
